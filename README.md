@@ -33,3 +33,19 @@ def show_names():
 show_names()
 
 ```
+
+# Description
+
+Just Wraps arround linux bash. lsusb to tempfile then read temp file. From there it creates classes for the information
+
+# Class LinuxUSB()
+
+queryusb.LinuxUSB()
+main data class
+supplied by dataclass queryusb.SerialBus
+
+
+```Python3
+class LinuxUsb:
+```
+
