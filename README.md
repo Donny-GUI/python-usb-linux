@@ -6,7 +6,7 @@ Extract Usb Serial Bus Information Really quick with python. Class based. Tested
 
 ```Bash
 cd <project dir>
-https://github.com/Donny-GUI/python-usb-linux.git
+git clone https://github.com/Donny-GUI/python-usb-linux.git
 
 ```
 
